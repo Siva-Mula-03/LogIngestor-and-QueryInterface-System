@@ -1,0 +1,20 @@
+input {
+  margin-inline: 10px;
+  margin-block: 10px;
+  outline: none;
+  font-family: Montserrat;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+}
+
+.log-title {
+  font-weight: 700;
+  color: red;
+}
+
+.root
+{
+  background-color: darkblue;
+}

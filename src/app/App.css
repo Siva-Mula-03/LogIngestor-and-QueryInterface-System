@@ -1,0 +1,25 @@
+.s-alert-box {
+    min-width: 250px;
+}
+
+.s-alert-close::before, .s-alert-close::after {
+    width: 2px;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 265vh; /* Adjust According to content */
+  }
+  
+  .app-top-box {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .app-body {
+    flex-grow: 1; /* Allow the content to grow and take remaining vertical space */
+    padding: 20px; /* Add padding to the content area */
+  }
+  
