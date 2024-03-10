@@ -144,7 +144,7 @@ npm start
 ```
 
 ## Setting up the Backend Server for UserAuth
-- Here is pic of how login/signup credentials is getting stored in MySql
+- Here is pic of how login/signup credentials are getting stored in MySql
 
   ![Screenshot (516)](https://github.com/Siva-Mula-03/LogIngestor-and-QueryInterface-System/assets/111627965/6ecfc371-74bc-466f-a218-63d42d86e64d)
 
